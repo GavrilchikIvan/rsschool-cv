@@ -5,4 +5,4 @@
    <li> <i>Telegram:</i> https://t.me/van_gavr </li>
    <li> <i>GitHub:</i> <b>@GavrilchikIvan</b> </li>
   </ul>
-I'm 28 years old. He graduated from BNTU. I have been working as an energy engineer for 6 years. I want to change my profession.
+I'm 28 years old. He graduated from BNTU. I have been working as an energy engineer for 5 years. I want to change my profession.
