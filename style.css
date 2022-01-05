@@ -5,12 +5,30 @@
     border-radius: 50%;
 }
 
-.text-block{
-    background-color: rgb(120, 235, 75);
-        display: block;
-        width: 124px;
-        height: 20px;
-        overflow: hidden;
-        font-size: 20px
-        }
-        .text-block:hover {background-color: yellow;}
+.name {
+    background-color: rgb(96, 94, 235);        
+        font-size: 20px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(18, 18, 110);}
+
+.all {background-color: rgb(191, 201, 240);}
+
+.desc {background-color: rgb(134, 90, 236);        
+        font-size: 16px;
+        font-weight: bolder;
+        font-family:Georgia, 'Times New Roman', Times, serif;}
+
+.subtitle {font-weight: bolder;
+    color:blue;
+    font-style:normal;}
+
+.Languages {font-size: 16px;
+    font-weight: bolder;
+    font-family:'Times New Roman', Times, serif;
+    font-style:normal;
+    }
+.Education {font-size: 16px;
+    font-weight: bolder;
+    font-family:'Times New Roman', Times, serif;
+    font-style:normal;
+    }
